@@ -9,7 +9,5 @@ public class WelcomeController {
 	public String welcome() {
 		
 		return "Welcome to my first spring boot page";
-                return "Welcome to my first spring boot page";
-
 	}
 }
